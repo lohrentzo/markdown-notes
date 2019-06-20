@@ -60,7 +60,7 @@ ___
 
 <!-- GitHub Code Block -->
 
-```
+```c
 int main() {
     printf("Hello, World!\n");
 }
