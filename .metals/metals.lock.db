@@ -1,0 +1,6 @@
+#FileLock
+#Thu Jun 20 14:43:33 BST 2019
+hostName=lorenzo.bbitg.co.uk
+id=16b7520d30ddedf79f1d7423cd27096ab7bc013f368
+method=file
+server=10.10.55.55\:54231
